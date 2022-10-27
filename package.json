@@ -1,10 +1,20 @@
 {
-  "name": "vxnNCtsYfRrbzo8hK8D1QwOfcqhpX1rGMnhhaAfU3SQTpM63zT",
+  "name": "หวยหุ้นรัสเซีย ย้อน หลัง ruay ดูที่ไหน - เว็บใหม่ huay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.43",
   "description": "หวยหุ้นรัสเซีย ย้อน หลัง RUAY โดยการออกสลากในทุกๆครั้งจะมีการถ่ายทอดสด ได้แก่ หวยหุ้นรัสเซีย ย้อน หลัง RUAY Huay หวย หวยออนไลน์ มีหวยทุกชนิด Oopsnew.Com ขอ",
   "repository": "https://github.com/gullibles-02/underdoor-05",
-  "keywords": ["หวยหุ้นรัสเซีย ย้อน หลัง RUAY","หวยหุ้นรัสเซีย","ย้อน","หลัง","RUAY","หวยหุ้นรัสเซีย Huay","ย้อน Huay","หลัง Huay","RUAY Huay"],
+  "keywords": [
+    "หวยหุ้นรัสเซีย ย้อน หลัง RUAY",
+    "หวยหุ้นรัสเซีย",
+    "ย้อน",
+    "หลัง",
+    "RUAY",
+    "หวยหุ้นรัสเซีย Huay",
+    "ย้อน Huay",
+    "หลัง Huay",
+    "RUAY Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
