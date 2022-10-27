@@ -1,10 +1,16 @@
 {
-  "name": "GbEbxWd2k3Z56eevVlW303KY6AX5oh5D8eGEqyQGKy9BH9Nkht",
+  "name": "huaysod.com เข้าสู่ระบบ สรุปว่าอะไร - เว็บใหม่ huay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.12",
   "description": "huaysod.com เข้าสู่ระบบ ตรวจผลการออกรางวัล หรือ huaysod.com เข้าสู่ระบบ Huay หวยออนไลน์ อันดับหนึ่ง huaysod.com เข้าสู่ระบบ หวยพม่า 2d เช็คผลหวยพม่า ประจำง",
   "repository": "https://github.com/gullibles-02/underdoor-05",
-  "keywords": ["HUAYSOD.COM เข้าสู่ระบบ","HUAYSOD.COM","เข้าสู่ระบบ","HUAYSOD.COM Huay","เข้าสู่ระบบ Huay"],
+  "keywords": [
+    "HUAYSOD.COM เข้าสู่ระบบ",
+    "HUAYSOD.COM",
+    "เข้าสู่ระบบ",
+    "HUAYSOD.COM Huay",
+    "เข้าสู่ระบบ Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
