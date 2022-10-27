@@ -1,10 +1,13 @@
 {
-  "name": "UoGtoM6ssB3pJmONvIfhgbtJ28C7FDz0D5YuHOCrYkHETRLuQc",
+  "name": "จุดอ่อนบาคาร่า สรุปว่าอะไร - เว็บใหม่ zeagame 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.51",
   "description": "จุดอ่อนบาคาร่า อีกหนึ่งข้อดีของเว็บ ดั่ง จุดอ่อนบาคาร่า ที่ Zeagame เว็บพนัน อันดับหนึ่ง Pg168 และ Ak47th คือ การแจกสูตรสล็อตฟรีให้สมาชิกได้นำไปใช้เป็นตัวช",
   "repository": "https://github.com/gullibles-02/underdoor-05",
-  "keywords": ["จุดอ่อนบาคาร่า","จุดอ่อนบาคาร่า Zeagame"],
+  "keywords": [
+    "จุดอ่อนบาคาร่า",
+    "จุดอ่อนบาคาร่า Zeagame"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
