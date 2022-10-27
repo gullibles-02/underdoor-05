@@ -1,10 +1,13 @@
 {
-  "name": "QPt8rFgZ1oqT6K49kvj7ndigFgiGQlwCx1h0PAzUWtbYZnuWJJ",
+  "name": "ตรวจลอตเตอรี่ เล่นที่ไหน - เว็บใหม่ 999lucky 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.21",
   "description": "ตรวจลอตเตอรี่ หวยหุ้นดาวโจนส์ออกวันไหน ตรวจลอตเตอรี่ แม้น ตรวจลอตเตอรี่ ที่ 999Lucky เว็บหวยออนไลน์ อันดับหนึ่ง จ่ายรางวัลอย่างไร เจาะลึกรายละเอียดไปพร้อมๆ",
   "repository": "https://github.com/gullibles-02/underdoor-05",
-  "keywords": ["ตรวจลอตเตอรี่","ตรวจลอตเตอรี่ 999Lucky"],
+  "keywords": [
+    "ตรวจลอตเตอรี่",
+    "ตรวจลอตเตอรี่ 999Lucky"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
