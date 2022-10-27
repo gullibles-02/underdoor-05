@@ -1,10 +1,16 @@
 {
-  "name": "0fz6HdRmzQuvgWijajrmnajhvSnxstKDQ9Tk5D5AHD4M0p5CBc",
+  "name": "หวยสด net เลือกยังไง - เว็บใหม่ huay24 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.30",
   "description": "หวยสด net ผลการออกรางวัล หวยสด net ได้แก่ หวยสด net ที่ Huay24 เว็บหวยออนไลน์ อันดับหนึ่ง หวยฮานอย ( Xổ Số Hà NộI ) ทั้ง 3 แบบ ฮานอย ปกติฮานอย พิเศษฮานอย V",
   "repository": "https://github.com/gullibles-02/underdoor-05",
-  "keywords": ["หวยสด NET","หวยสด","NET","หวยสด Huay24","NET Huay24"],
+  "keywords": [
+    "หวยสด NET",
+    "หวยสด",
+    "NET",
+    "หวยสด Huay24",
+    "NET Huay24"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
