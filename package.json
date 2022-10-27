@@ -1,10 +1,13 @@
 {
-  "name": "XnWhxb8DC2y6R7VXl6Wic04B3I38XeGFt87LdHKuVkEUkL4E6I",
+  "name": "หวยไทยรัฐ16765 ดูที่ไหน - เว็บใหม่ masurebet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.45",
   "description": "หวยไทยรัฐ16/7/65 ลูกศรเหลือง  กับ หวยไทยรัฐ16/7/65 Masurebet มาชัวร์เบท หวยออนไลน์ มีหวยทุกชนิด ตรงนั้นคือการเลือกราคาสำหรับแต่ละเลขว่าต้องการจะเล่นตัวนั้น",
   "repository": "https://github.com/gullibles-02/underdoor-05",
-  "keywords": ["หวยไทยรัฐ16/7/65","หวยไทยรัฐ16/7/65 Masurebet"],
+  "keywords": [
+    "หวยไทยรัฐ16/7/65",
+    "หวยไทยรัฐ16/7/65 Masurebet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
