@@ -1,10 +1,13 @@
 {
-  "name": "Q69lC5jc7y1yPLkGwnJANt1z4tdLlTXIJZMt0PX5zyBjw5Rydm",
+  "name": "หวยหุ้นนิเคอิวันนี้ คืออะไร - เว็บใหม่ jetsadabet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.68",
   "description": "หวยหุ้นนิเคอิวันนี้ สอนวิธีการเล่นหวยหุ้นทุกอย่างแบบละเอียดสอนวิธีการเล่นหวยหุ้นแบบละเอียด แต่ว่า หวยหุ้นนิเคอิวันนี้ ที่ Jetsadabet เว็บหวยออนไลน์ อันดับห",
   "repository": "https://github.com/gullibles-02/underdoor-05",
-  "keywords": ["หวยหุ้นนิเคอิวันนี้","หวยหุ้นนิเคอิวันนี้ Jetsadabet"],
+  "keywords": [
+    "หวยหุ้นนิเคอิวันนี้",
+    "หวยหุ้นนิเคอิวันนี้ Jetsadabet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
