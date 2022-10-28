@@ -1,10 +1,13 @@
 {
-  "name": "HO4E8B8ZaTuEcejfEZWeDmWgeLOpAe2W4tOOHsCcgJ8HkWpjsr",
+  "name": "หวยหุ้นไต้หวันออกกี่โมง แตกต่างกันอย่างไร - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.82",
   "description": "หวยหุ้นไต้หวันออกกี่โมง แพะ กับ หวยหุ้นไต้หวันออกกี่โมง ที่ Lotto เว็บหวยออนไลน์ อันดับหนึ่ง 35หวยลาวเลขท้าย 4 ตัว 8408หวยลาวเลข 5 ตัว 78408หอย 02หวยลาวเลข",
   "repository": "https://github.com/gullibles-02/underdoor-05",
-  "keywords": ["หวยหุ้นไต้หวันออกกี่โมง","หวยหุ้นไต้หวันออกกี่โมง Lotto"],
+  "keywords": [
+    "หวยหุ้นไต้หวันออกกี่โมง",
+    "หวยหุ้นไต้หวันออกกี่โมง Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
